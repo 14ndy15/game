@@ -11,11 +11,11 @@
 <author>landy</author>
 <platform name="android" />
 
-<icon src="icon.svg" platform="android" qualifier="ldpi" />
-<icon src="icon.svg" platform="android" qualifier="mdpi" />
-<icon src="icon.svg" platform="android" qualifier="hdpi" />
-<icon src="icon.svg" platform="android" qualifier="xhdpi" />
-<icon src="icon.svg" platform="android" qualifier="xxhdpi" />
-<icon src="icon.svg" platform="android" qualifier="xxxhdpi" />
-<icon src="icon.svg" platform="android" qualifier="fr-xxhdpi" />
+<icon src="icon.png" platform="android" qualifier="ldpi" />
+<icon src="icon.png" platform="android" qualifier="mdpi" />
+<icon src="icon.png" platform="android" qualifier="hdpi" />
+<icon src="icon.png" platform="android" qualifier="xhdpi" />
+<icon src="icon.png" platform="android" qualifier="xxhdpi" />
+<icon src="icon.png" platform="android" qualifier="xxxhdpi" />
+<icon src="icon.png" platform="android" qualifier="fr-xxhdpi" />
 </widget>
