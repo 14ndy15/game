@@ -18,3 +18,4 @@
 <icon src="icon.svg" platform="android" qualifier="xxhdpi" />
 <icon src="icon.svg" platform="android" qualifier="xxxhdpi" />
 <icon src="icon.svg" platform="android" qualifier="fr-xxhdpi" />
+</widget>
